@@ -1,0 +1,35 @@
+2023-12-12 03:27:53,107 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
+2023-12-12 03:27:53,648 [INFO] ApiDb:448 - Save user favorites file /Users/navinprabhu/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2023-12-12 03:27:53,648 [INFO] ApiDb:452 - User favorites MCUs=[]
+2023-12-12 03:28:04,025 [INFO] MainUpdater:2873 - connection check result : 10
+2023-12-12 03:28:04,287 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
+2023-12-12 03:28:04,290 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2023-12-12 03:28:04,291 [INFO] FinderPluginLoader:95 - Searching for filters in installed packs
+2023-12-12 03:28:05,136 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2023-12-12 03:28:05,137 [INFO] DetailPanel:341 - Set advertising image to /Users/navinprabhu/STM32Cube/Repository//en.prom-stm32wl3-mcu-finder.jpg
+2023-12-12 03:28:09,097 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2023-12-12 03:28:09,382 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2023-12-12 03:28:09,383 [INFO] DetailPanel:341 - Set advertising image to /Users/navinprabhu/STM32Cube/Repository//en.prom-stm32wl3-mcu-finder.jpg
+2023-12-12 03:28:09,413 [INFO] DbBoards:642 - Loading board mini-images...
+2023-12-12 03:28:10,676 [ERROR] DbBoards:659 - Image file not found for board NUCLEO-WBA55CG: /Users/navinprabhu/.stmcufinder/plugins/mcufinder//mcu//boards_images/NUCLEO-WBA55CG.jpg
+2023-12-12 03:28:12,661 [ERROR] DbBoards:659 - Image file not found for board STM32WBA55G-DK1: /Users/navinprabhu/.stmcufinder/plugins/mcufinder//mcu//boards_images/STM32WBA55G-DK1.jpg
+2023-12-12 03:28:12,669 [INFO] DbBoards:665 - Loaded 191 board mini-images
+2023-12-12 03:29:02,994 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
+2023-12-12 03:29:03,006 [INFO] ApiDb:448 - Save user favorites file /Users/navinprabhu/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2023-12-12 03:29:03,009 [INFO] ApiDb:452 - User favorites MCUs=[]
+2023-12-12 03:29:03,021 [INFO] ApiDb:448 - Save user favorites file /Users/navinprabhu/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2023-12-12 03:29:03,021 [INFO] ApiDb:452 - User favorites Boards=[]
+2023-12-12 19:42:20,548 [INFO] MainUpdater:2873 - connection check result : 10
+2023-12-12 19:42:20,854 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
+2023-12-12 19:42:20,859 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2023-12-12 19:42:20,861 [INFO] FinderPluginLoader:95 - Searching for filters in installed packs
+2023-12-12 19:42:21,851 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2023-12-12 19:42:21,854 [INFO] DetailPanel:341 - Set advertising image to /Users/navinprabhu/STM32Cube/Repository//en.prom-stm32wl3-mcu-finder.jpg
+2023-12-12 19:42:31,768 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2023-12-12 19:42:31,946 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2023-12-12 19:42:31,946 [INFO] DetailPanel:341 - Set advertising image to /Users/navinprabhu/STM32Cube/Repository//en.prom-stm32wl3-mcu-finder.jpg
+2023-12-12 19:43:12,509 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
+2023-12-12 19:43:12,520 [INFO] ApiDb:448 - Save user favorites file /Users/navinprabhu/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2023-12-12 19:43:12,520 [INFO] ApiDb:452 - User favorites MCUs=[]
+2023-12-12 19:43:12,529 [INFO] ApiDb:448 - Save user favorites file /Users/navinprabhu/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2023-12-12 19:43:12,529 [INFO] ApiDb:452 - User favorites Boards=[]
