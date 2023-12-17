@@ -1,3 +1,1 @@
-2023-12-13 07:30:35,337 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=true
-2023-12-13 07:31:01,835 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=false
-2023-12-13 07:31:04,562 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=true
+2023-12-16 17:39:50,753 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connect timed out
